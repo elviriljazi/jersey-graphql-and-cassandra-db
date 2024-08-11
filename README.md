@@ -1,4 +1,4 @@
-# Jersey GraphQL Cassandra Project
+# Jersey + GraphQL + Cassandra DB Project
 
 ## Overview
 
